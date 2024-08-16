@@ -4,10 +4,10 @@
 I'm a tech enthusiast with a passion for building partnerships and writing code. 
 
 ## 🛠️ Current Tech Stack
-Backend: Python, Django, FastAPI
-Frontend: JavaScript, React
-Databases: PostgreSQL, MongoDB
-Tools: Docker, Git, VS Code
+* Backend: Python, Django, FastAPI
+* Frontend: JavaScript, React
+* Databases: PostgreSQL, MongoDB
+* Tools: Docker, Git, VS Code
 
 ## 🌱 What I'm up to
 * Building SlabShow, a sports cards inventory management system

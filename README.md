@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Gerry Villoslado (@villoslado)
-- 👀 I’m interested in technology, programming, trekking, music, and grilling
-- 🌱 I’m currently learning FastAPI and LLMs
-- 📫 Reach me via LinkedIn
-- ⚡ Fun fact: I've completed El Camino de Santiago twice!
+### Gerry Villoslado

@@ -11,7 +11,6 @@ I'm a tech enthusiast with a passion for building partnerships and writing code.
 
 ## 🌱 What I'm up to
 * Building SlabShow, a sports cards inventory management system
-* Leading a team to develop High Travel, a social travel planning app
 
 ## 💼 Professional Background
 * Previously led Technology Partnerships at Salesforce and Microsoft

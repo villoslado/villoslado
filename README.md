@@ -11,6 +11,8 @@ I'm a tech enthusiast with a passion for building partnerships and writing code.
 
 ## 🌱 What I'm up to
 * Building SlabShow, a sports cards inventory management system
+* Building Sigma Unity CRM, an accessible CRM for SMBs
+* Building DjangoScribe, a Django-based blogging platform
 
 ## 💼 Professional Background
 * Previously led Technology Partnerships at Salesforce and Microsoft

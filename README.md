@@ -9,6 +9,3 @@ Finance leader at Microsoft AI. I use code to build things that interest me.
 
 ## Current Projects
 - Monte Carlo simulation web tool
-
-## GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
